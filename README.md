@@ -12,9 +12,9 @@ C99 implementation of a Non-deterministic Single Tape Turing Machine.
 
 ## Result
 The following code provides an efficient simulator of the TM in terms of time and space complexity. Every input file is formatted in the same way, with the declaration of the transition function, acceptant states, max number of pass (to prevent an infinite loop situation) and a list of input strings. The program provides an output with one character for each input string. This can be:
-* [1] - If the TM accepts the input string
-* [0] - If the TM refuses the input string
-* [U] - If the TM overcomes the max number of passes
+* 1 - If the TM accepts the input string
+* 0 - If the TM refuses the input string
+* U - If the TM overcomes the max number of passes
 
 ## Running the program
 The only thing to do is to compile the code
