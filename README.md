@@ -1,5 +1,5 @@
 # API-project
-Source code of the Algorithms and Principles of Computer Science course at PoliMi.
+Source code of the Algorithms and Principles of Computer Science project course at PoliMi.
 
 ## Target
 C99 implementation of a Non-deterministic Single Tape Turing Machine. 
